@@ -1,0 +1,14 @@
+h1 {
+  font-weight: bold;
+  font-style: normal;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+p.important {
+  font-size: 20px;
+  font-style: normal;
+}
