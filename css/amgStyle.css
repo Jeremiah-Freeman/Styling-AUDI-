@@ -12,3 +12,8 @@ p.important {
   font-size: 20px;
   font-style: normal;
 }
+
+p.notImportant {
+  font-size: 35px;
+  font-weight: bold;
+}
